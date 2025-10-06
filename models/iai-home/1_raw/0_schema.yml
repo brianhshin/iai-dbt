@@ -1,0 +1,6 @@
+
+version: 2
+
+models:
+  - name: homes_raw
+    description: "A starter dbt model"

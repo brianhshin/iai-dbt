@@ -1,0 +1,6 @@
+
+version: 2
+
+models:
+  - name: homes
+    description: "A starter dbt model"
